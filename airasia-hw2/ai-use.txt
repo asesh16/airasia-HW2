@@ -13,6 +13,7 @@ AI suggested using labeled inputs and native form controls for the add and updat
 
 Follow-up prompt:
 "Please help me to better follow the design in these wireframes "
+"Please check the assignment criteria in the ReadMe for completeness against my code" 
 
 How the wireframes guided the revision:
 I reviewed the supplied wireframes and simplified the pages to use plain headings, bordered panels, gift-card image and information rows, a simple details layout, and straightforward single-column forms.
